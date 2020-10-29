@@ -1,5 +1,4 @@
-## Minimax-Algorithm-for-tic-tac-toe-game
-Simple Minimax algorithm applied to tic-tac-toe game to obtain the most optimal movement for the player at a certain moment of the game.
+## Simple Minimax algorithm applied to tic-tac-toe game to obtain the most optimal movement for the player at a certain moment of the game.
 
 ## How it works
 
