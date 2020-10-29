@@ -17,6 +17,9 @@ Consider, for example, the following game tree which begins not at the root but 
 The tree is composed of alternating layers where it is either Min's turn to place an O or Max's turn to place an X at any of the vacant slots on the board. The player whose turn it is to play next is shown at the left.
 
 ![1](https://user-images.githubusercontent.com/71594504/97509550-e1d1d480-1982-11eb-9129-27b2dfb4b00d.PNG)
+
 ![2](https://user-images.githubusercontent.com/71594504/97509554-e26a6b00-1982-11eb-9b52-8726b541122b.PNG)
+
 ![3](https://user-images.githubusercontent.com/71594504/97509555-e39b9800-1982-11eb-9af7-86861ff5cc55.PNG)
+
 ![4](https://user-images.githubusercontent.com/71594504/97509556-e4ccc500-1982-11eb-9a69-7cff9cc4336f.PNG)
