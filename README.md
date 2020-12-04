@@ -1,6 +1,6 @@
 # Simple Minimax algorithm applied to tic-tac-toe game to obtain the most optimal movement for the player at a certain moment of the game.
 
-## How it works
+## 📌 How it works
 
 The different states of the game are represented by nodes in the game tree.
 
@@ -10,7 +10,7 @@ Each node on the second level, would further have as its children nodes the stat
 
 In order to be able to create game AI that attempts to win the game, it is attach a numerical value to each possible end result. To the board positions where X has a line of three so that Max wins, we attach the value +1, and likewise, to the positions where Min wins with three Os in a row we attach the value -1. For the positions where the board is full and neither player wins, we use the neutral value 0 (it doesn’t really matter what the values are as long as they are in this order so that Max tries to maximize the value, and Min tries to minimize it).
 
-## A sample game tree
+## 🔰 A sample game tree
 
 Consider, for example, the following game tree which begins not at the root but in the middle of the game (because otherwise, the tree would be way too big to display). Note that this is different from the game shown in the illustration in the beginning of this section.The nodes are numbered with numbers 1, 2, ..., 14.
 
