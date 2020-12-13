@@ -1,5 +1,7 @@
 # Simple Minimax algorithm applied to tic-tac-toe game to obtain the most optimal movement for the player at a certain moment of the game.
 
+◼ : [Minimax Algorithm](https://github.com/Jackesgamero/Minimax-Algorithm-for-tic-tac-toe-game/blob/master/Minimax%20algorithm%20for%20tic%20tac%20toe%20game/Minimax%20algorithm%20for%20tic%20tac%20toe%20game/OptimalMove.cpp)
+
 ## 📌 How it works
 
 The different states of the game are represented by nodes in the game tree.
